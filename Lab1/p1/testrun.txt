@@ -1,0 +1,26 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Assignment-1
+Due Date: April.17
+Date Submitted: April.17
+
+Test Run:
+
+How many TV's were sold? 10 
+How many VCR's were sold? 1
+How many Remote Controller's were sold? 53
+How many CD's were sold? 52
+How many Tape Recorder's were sold? 1
+
+Output:
+
+QTY     DESCRIPTION     UNIT PRICE      TOTAL PRICE
+10      TV              $400.00 $4000.00
+1       VCR             $220.00 $220.00
+53      Remote Controller       $35.20  $1865.60
+52      CD Player       $300.00 $15600.00
+1       Tape Recorder   $150.00 $150.00
+
+                SUBTOTAL        $21835.60
+                TAX             $1801.44
+                TOTAL           $23637.04
