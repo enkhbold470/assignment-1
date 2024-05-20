@@ -1,0 +1,406 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Assignment3
+Due Date: May 19, 2024
+Date Submitted: May 19, 2024
+
+Test Run:
+
+Testing with String: AGCCTAGGATCAG
+LtoR Helix:
+Name: Adenine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 0.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 1.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 2.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 3.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 4.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 5.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 6.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 7.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 8.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 9.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 10.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 11.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 12.00 g/cm3
+
+RtoL Helix:
+Highest Molar Mass: 84.0 g/mol at index: 0
+Total Density: 78.0 g/cm3
+
+Testing with String: AGCCTAGGATCTAGGATCAG
+LtoR Helix:
+Name: Adenine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 0.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 1.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 2.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 3.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 4.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 5.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 6.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 7.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 8.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 9.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 10.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 11.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 12.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 13.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 14.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 15.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 16.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 17.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 18.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTAGGATCTAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 19.00 g/cm3
+
+RtoL Helix:
+Highest Molar Mass: 84.0 g/mol at index: 0
+Total Density: 190.0 g/cm3
+
+Testing with String: AGCCTATAGGATCAG
+LtoR Helix:
+Name: Adenine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 0.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 1.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 2.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 3.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 4.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 5.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 6.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 7.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 8.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 9.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 10.00 g/cm3
+Name: Thymine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 11.00 g/cm3
+Name: Cytosine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 12.00 g/cm3
+Name: Adenine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 13.00 g/cm3
+Name: Guanine
+Chemical Formula: AGCCTATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 14.00 g/cm3
+
+RtoL Helix:
+Highest Molar Mass: 84.0 g/mol at index: 0
+Total Density: 105.0 g/cm3
+
+Testing with String: AAAGCCTAGGATAGGATCAG
+LtoR Helix:
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 0.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 1.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 2.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 3.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 4.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 5.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 6.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 7.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 8.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 9.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 10.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 11.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 12.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 13.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 14.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 15.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 16.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 17.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 18.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 19.00 g/cm3
+
+RtoL Helix:
+Highest Molar Mass: 84.0 g/mol at index: 0
+Total Density: 190.0 g/cm3
+
+Testing with String: AAAGCCTCTGAGGATAGGATCAG
+LtoR Helix:
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 0.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 1.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 2.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 3.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 4.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 5.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 6.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 7.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 8.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 9.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 10.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 11.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 12.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 13.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 14.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 15.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 16.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 17.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 18.00 g/cm3
+Name: Thymine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 65.00 g/mol
+Density: 19.00 g/cm3
+Name: Cytosine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 71.00 g/mol
+Density: 20.00 g/cm3
+Name: Adenine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 84.00 g/mol
+Density: 21.00 g/cm3
+Name: Guanine
+Chemical Formula: AAAGCCTCTGAGGATAGGATCAG
+Molar Mass: 67.00 g/mol
+Density: 22.00 g/cm3
+
+RtoL Helix:
+Highest Molar Mass: 84.0 g/mol at index: 0
+Total Density: 253.0 g/cm3
