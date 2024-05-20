@@ -1,0 +1,22 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Lab2
+Due Date: May.12
+Date Submitted: May.7
+
+Test Run:
+
+Genome Name: Human Bob
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells: 76
+
+Genome Name: Human Sally
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells: 120
+
+Genome Name: Human Sri
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells: 75

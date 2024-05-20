@@ -1,0 +1,29 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Lab2
+Due Date: May.12
+Date Submitted: May.7
+
+Test Run:
+
+Printing Nucleic Acids:
+Name: Cytosine
+Chemical Formula: C4H5N3O
+Molar Mass: 111.10 g/mol
+Density: 1.55 g/cm3
+Name: Adenine
+Chemical Formula: C5H5N5
+Molar Mass: 135.13 g/mol
+Density: 1.60 g/cm3
+Name: Guanine
+Chemical Formula: C5H5N5O
+Molar Mass: 151.13 g/mol
+Density: 2.20 g/cm3
+Name: Thymine
+Chemical Formula: C5H6N2O2
+Molar Mass: 126.11 g/mol
+Density: 1.22 g/cm3
+Name: Uracil
+Chemical Formula: C4H4N2O2
+Molar Mass: 112.09 g/mol
+Density: 1.32 g/cm3

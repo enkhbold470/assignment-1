@@ -1,0 +1,13 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Lab2
+Due Date: May.7
+Date Submitted: May.6
+
+
+test run:
+
+Name: Elon Musk
+Address: Market St, SF, CA
+Age: 52
+Phone Number: 1-310-363-6000

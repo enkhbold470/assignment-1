@@ -1,0 +1,10 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Assignment1
+Due Date: April.24
+Date Submitted: April.22
+
+Test Run:
+
+Enter a number to find its square root: 5
+The square root of 5 is approximately 2.236067977499978
