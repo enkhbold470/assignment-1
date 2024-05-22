@@ -3,7 +3,7 @@ import genetics.NucleicAcid;
 import driver.DNADriver;
 
 /*
- * Class Design: NucleicAcid
+ * Class Design: DNA
  * 
  * Packages: genetics, driver
  * import: genetics.NucleicAcid, driver.DNADriver
