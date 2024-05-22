@@ -1,5 +1,3 @@
-package driver;
-import genetics.DNA;
 /*
  * Class Design: NucleicAcid
  * 
@@ -11,9 +9,9 @@ import genetics.DNA;
  * Processing: getNucleicAcidName, getComplementaryBase, LtoRHelixpopulate, print, highestMolarMass, totalDensity 
  * Output: LtoRHelix, RtoLHelix, highestMolarMass, totalDensity
  */
-
+package driver;
+import genetics.DNA;
 public class DNADriver {
-
     public static void main(String[] args) {
         String[] testStrings = {
                 "AGCCTAGGATCAG",
@@ -22,11 +20,9 @@ public class DNADriver {
                 "AAAGCCTAGGATAGGATCAG",
                 "AAAGCCTCTGAGGATAGGATCAG"
         };
-
         for (String testString : testStrings) {
             System.out.println("Testing with String: " + testString);
             DNA dna = new DNA(testString);
-
             // Test methods on the DNA object
             dna.print();
             dna.highestMolarMass();

@@ -1,3 +1,4 @@
+// Lab2
 package genetics;
 /*
  * Class Design: HumanGenome
