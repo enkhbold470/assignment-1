@@ -1,3 +1,4 @@
+// Assignment: Lab -1, Part 2
 import java.util.Scanner;
 
 public class TempFahrenheit {
@@ -17,3 +18,19 @@ public class TempFahrenheit {
         scanner.close();
     }
 }
+// Test Run:
+
+// Enter a temperature in Celsius: 0
+// 0.00 Celsius is 32.00 Fahrenheit
+// Enter a temperature in Fahrenheit: 32
+// 32.00 Fahrenheit is 0.00 Celsius
+
+// Enter a temperature in Celsius: 100
+// 100.00 Celsius is 212.00 Fahrenheit
+// Enter a temperature in Fahrenheit: 212
+// 212.00 Fahrenheit is 100.00 Celsius
+
+// Enter a temperature in Celsius: -40
+// -40.00 Celsius is -40.00 Fahrenheit
+// Enter a temperature in Fahrenheit: -40
+// -40.00 Fahrenheit is -40.00 Celsius
