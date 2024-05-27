@@ -1,0 +1,14 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Lab4
+Due Date: May.27
+Date Submitted: May.27
+
+Test Run:
+Initial Balances: 
+Saver 1: $2000.0
+Saver 2: $3000.0
+
+After calculating monthly interest at 4%:
+Saver 1: $2006.6666666666667
+Saver 2: $3010.0

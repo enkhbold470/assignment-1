@@ -1,0 +1,20 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Lab4
+Due Date: May.27
+Date Submitted: May.27
+
+Test Run:
+
+Generic Ship is sailing.
+Generic Ship is docking.
+
+Cargo King (Cargo Ship) is sailing with cargo type: Electronics
+Cargo King is docking.
+
+Cruise Queen (Cruise Ship) is sailing with ticket price: $999.99
+Cruise Queen (Cruise Ship) is docking.
+
+Cargo King is loading cargo.
+Cargo King is unloading cargo.
+Cruise Queen is providing services to guests.

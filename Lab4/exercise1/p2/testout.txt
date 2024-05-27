@@ -1,0 +1,20 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Lab4
+Due Date: May.27
+Date Submitted: May.27
+
+Test Run:
+Initial Balances:
+SavingsAccount : $2000.0
+SpecialSavings : $3000.0
+
+Depositing and Withdrawing some money
+
+After Deposits and Withdrawals:
+SavingsAccount : $2500.0
+SpecialSavings : $2500.0
+
+After calculating monthly interest at 5%:
+SavingsAccount : $2510.4166666666665
+SpecialSavings (Earns 10% interest): $2510.4166666666665
