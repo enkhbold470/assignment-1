@@ -1,0 +1,18 @@
+Your Name: Enkhbold Ganbold
+Class and Section: CIS35A
+Assignment Number: Assignment6
+Due Date: June.16
+Date Submitted: June.16
+
+Test Run:
+
+➜  Lab6 git:(main) ✗ java driver.Driver1
+
+Exception caught: This is a test exception.
+➜  Lab6 git:(main) ✗ java driver.Driver2
+
+StudentGrade object serialized successfully.
+➜  Lab6 git:(main) ✗ java driver.Driver3
+
+Statistics: High = 90, Low = 80, Average = 85.0
+Scores for student 123: [80, 90, 85]
